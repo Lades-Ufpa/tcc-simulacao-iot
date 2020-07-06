@@ -12,6 +12,7 @@ Simulação de Tecnologias de Transmissão IoT/M2M para o Cenário Amazônico
 * Ubuntu or Lubuntu 20.04 LTS
 * Git 
 * Docker
+* Make 
 * Visual Code Studio 
 
 **Ambiente de produção**
